@@ -19,6 +19,14 @@ A simple, user-friendly web-based interface for creating Git commits with custom
 - **Web Server** (Apache, Nginx, or local development server)
 - **Git Repository** (existing or new)
 
+---
+
+## Demo Screenshots
+
+![Screenshot 1](Demo-image.png)
+
+---
+
 ## 📦 Installation
 
 1. **Clone or Download**
