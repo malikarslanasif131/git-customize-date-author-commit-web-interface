@@ -24,8 +24,8 @@ A simple, user-friendly web-based interface for creating Git commits with custom
 1. **Clone or Download**
 
    ```bash
-   git clone https://github.com/malikarslanasif131/git-commit-web-interface.git
-   cd git-commit-web-interface
+   git clone https://github.com/malikarslanasif131/git-customize-date-author-commit-web-interface.git
+   cd git-customize-date-author-commit-web-interface
    ```
 
 2. **Configure Git Path** (if needed)
@@ -163,13 +163,14 @@ This project is open source and available under the [MIT License](LICENSE).
 **Malik Arslan Asif**
 
 - GitHub: [@malikarslanasif131](https://github.com/malikarslanasif131)
+- LinkedIn: [@malikarslanasif131](https://www.linkedin.com/in/malikarslanasif131/)
 - Email: malikarslanasif131@gmail.com
 
 ## ⭐ Support
 
 If this project helped you, please consider giving it a star on GitHub!
 
-For issues, questions, or suggestions, please open an issue on the [GitHub repository](https://github.com/malikarslanasif131/git-commit-web-interface).
+For issues, questions, or suggestions, please open an issue on the [GitHub repository](https://github.com/malikarslanasif131/git-customize-date-author-commit-web-interface).
 
 ---
 
